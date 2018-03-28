@@ -1,0 +1,19 @@
+{
+  "name": "seinfeld_app",
+  "version": "1.0.0",
+  "description": "This is a practice to create express routes, and integrate with Mysql database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycedelatorre/Seinfeld_app.git"
+  },
+  "author": "jdel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycedelatorre/Seinfeld_app/issues"
+  },
+  "homepage": "https://github.com/joycedelatorre/Seinfeld_app#readme"
+}

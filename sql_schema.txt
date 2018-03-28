@@ -1,0 +1,12 @@
+USE Seinfeld_DB;
+
+Create Table actors(
+
+id int auto_increment,
+name varchar (30) not null,
+coolness_points int not null,
+attitude varchar (60) not null,
+primary key(id)
+);
+insert into actors(name, coolness_points, attitude)VALUES("Jerry", 60, "relaxed");
+
