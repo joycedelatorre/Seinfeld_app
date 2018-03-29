@@ -10,3 +10,5 @@ primary key(id)
 );
 insert into actors(name, coolness_points, attitude)VALUES("Jerry", 60, "relaxed");
 
+insert into actors(name, coolness_points, attitude)VALUES("George", 10, "neurotic");
+insert into actors(name, coolness_points, attitude)VALUES("Elaine", 80, "introspective");
